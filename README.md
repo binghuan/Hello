@@ -3,7 +3,7 @@
 This is a private Pod Repo for iOS Project.
 
 #### Here is the sample to get tag for version name in Android Project. 
-![](./images/getversionname.png)
+![](./images/file_structure.png)
 
 # Related Project: 
 - PrivateSpecRepo: <https://github.com/binghuan/PrivateSpecRepo>
